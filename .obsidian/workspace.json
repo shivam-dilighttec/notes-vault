@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11413fc3883fd0fe",
+            "id": "4fb23cf90bf7c689",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "4fb23cf90bf7c689",
+            "id": "e9eb156bc4add588",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "2026-05-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,19 +216,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88d89aa69fe31165",
+  "active": "4fb23cf90bf7c689",
   "lastOpenFiles": [
+    "Daily Tasks/2026-05-05.md",
     "Backlogs.md",
+    "Daily Tasks/2026-04-29.md",
+    "Daily Tasks/2026-05-06.md",
     "Recurring.md",
     "Virendra Backlog.md",
     "Rough Notes.md",
-    "Daily Tasks/2026-05-05.md",
     "Daily Tasks/2026-05-04.md",
     "Untitled",
     "Daily Tasks/2026-05-01.md",
     "Questionaries.md",
     "Daily Tasks/2026-04-30.md",
-    "Daily Tasks/2026-04-29.md",
     "Recurrings",
     "Daily Tasks",
     "Welcome.md"
