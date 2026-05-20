@@ -5,4 +5,4 @@ KIPU - Nuview
 	- Clear the redundant analytics to make the database way more clean.
 	- Consume the Custom Analytics API and show the Data into the Hubspot card.
 2. [ ] Start the hubspot migration from DRF to bridges.  📅 2026-05-22
-3. [ ] 
+3. [ ] Outgoing referral - ⏫ 🏁 AI voice Assistant.

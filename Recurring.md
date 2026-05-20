@@ -1,8 +1,7 @@
 KIPU
-- [ ] Add tasks into the feature list sheet if any task added in KIPU Zeale group 🔁 every day
-- [x] Add tasks into the feature list sheet if any task added in KIPU Zeale group 🔁 every day ✅ 2026-04-30
-- [ ] Update the EOD report in the resources sheet and manage for all developers EOD. 🔁 every day
-- [x] Update the EOD report in the resources sheet and manage for all developers EOD. 🔁 every day ✅ 2026-04-30
+1. Daily check the status of mezmo, if any error, verify the error source.
+2. Daily Nuview hubspot Cleanup task ~ daily 2 hours
+3. 
 
 TMC
 - [ ] Keep the time logging around 9 hours, min: 8 hours mandatory.
