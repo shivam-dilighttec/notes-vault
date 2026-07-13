@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-07-10.md",
+                "file": "Daily Tasks/2026-07-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-10"
+              "title": "2026-07-13"
             }
           }
         ]
@@ -227,10 +227,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f92d8f325243e669",
+  "active": "0c655d23b4b08880",
   "lastOpenFiles": [
-    "2026-07-09.md",
     "2026-07-10.md",
+    "Daily Tasks/2026-07-13.md",
+    "2026-07-09.md",
     "Daily Tasks/2026-07-08.md",
     "Untitled.md",
     "Daily Tasks/2026-07-07.md",
@@ -254,7 +255,6 @@
     "Daily Tasks/2026-06-15 1.md",
     "Daily Tasks/2026-06-11.md",
     "Daily Tasks/2026-06-10.md",
-    "Daily Tasks/2026-06-09.md",
     "Untitled",
     "Recurrings",
     "Daily Tasks"
